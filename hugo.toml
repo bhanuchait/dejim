@@ -1,4 +1,4 @@
 baseURL = 'https://dejim.co.in'
-languageCode = 'te-in'
+languageCode = 'en-us'
 title = 'Dejim Digital Marketing'
 theme = 'ananke'
