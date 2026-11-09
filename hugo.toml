@@ -1,0 +1,4 @@
+baseURL = 'https://dejim.co.in'
+languageCode = 'te-in'
+title = 'Dejim Digital Marketing'
+theme = 'ananke'
